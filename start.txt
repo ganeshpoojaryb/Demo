@@ -3,3 +3,4 @@ Testing Git command
 2. Added new line 2
 3. Added new line 3
 4. Added new line 4
+5. Added new line 5
